@@ -1,6 +1,6 @@
 <h1>Seletive</h1>
 
-> Status: Developing ⚠️
+> Status: Finished
 
 ### Seletive it's a website planned to secure jobs, where i builted with Python and Django for Back-end and HTLM 5, CSS 3, JavaScript for Front-End.
 
